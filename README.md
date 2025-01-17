@@ -3,6 +3,8 @@
 ## About This Project
 Welcome to the Flipkart Homepage Clone project! This repository contains the HTML and CSS code for a replica of the Flipkart homepage.
 
+**You can view the demo of this page by clicking on this link:**  https://bhavya-simformsolutions.github.io/Flipkart-Homepage/
+
 ## Technologies Used
 
 - HTML
