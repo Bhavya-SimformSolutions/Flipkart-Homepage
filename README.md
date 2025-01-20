@@ -18,19 +18,19 @@ Welcome to the Flipkart Homepage Clone project! This repository contains the HTM
   
 ## Some Images
 
-**Picture No:-1**
+**Picture No:-1 (Full Screen Layout)**
 
 
-![](https://github.com/Bhavya-SimformSolutions/Flipkart-Homepage/blob/master/Screenshots/Screenshot-1.png)
-**Picture No:-2**
+![](https://github.com/Bhavya-SimformSolutions/Flipkart-Homepage/blob/master/Screenshots/Full-Screen-Screenshot.png)
+**Picture No:-2 (Without ad-banner)**
 
 
 ![](https://github.com/Bhavya-SimformSolutions/Flipkart-Homepage/blob/master/Screenshots/Screenshot-2.png)
-**Picture No:-3**
+**Picture No:-3 (Tablet Layout)**
 
 
 ![](https://github.com/Bhavya-SimformSolutions/Flipkart-Homepage/blob/master/Screenshots/Screenshot-3.png)
-**Picture No:-4**
+**Picture No:-4 (Mobile Layout)**
 
 
 ![](https://github.com/Bhavya-SimformSolutions/Flipkart-Homepage/blob/master/Screenshots/Screenshot-4.png)
